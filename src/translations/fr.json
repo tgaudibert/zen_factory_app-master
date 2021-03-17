@@ -1,0 +1,261 @@
+{
+  "AUTH_LANDING_TITLE": "Sensorz",
+  "AUTH_LANDING_SUBTITLE": "L'usine intelligente commence ici",
+  "AUTH_LANDING_GETSTARTED": "S'inscrire",
+  "AUTH_LANDING_ALREADYSIGNUP": "Déjà un compte?",
+  "AUTH_LANDING_SIGNIN": "Se connecter",
+
+  "AUTH_EMAIL_TITLE": "Quelle est votre adresse email?",
+  "AUTH_EMAIL_WARNING": "S'il vous plait entrez un email valide",
+  "AUTH_EMAIL_ENTRY": "jean.paa@gmail.com",
+  "AUTH_EMAIL_VALID": "Email valide",
+  "USERNAME_EMAIL_ERROR": "Il semblerait qu'il y'ait un probléme avec cet email",
+  "USER_ALREADY_EXISTS" : "Cet email est déjà prit",
+
+  "AUTH_CODE_TITLE": "Entrer le code de verification reçu par email",
+  "AUTH_CODE_VERIFY": "Verifier",
+  "INVALID_REGISTRATION_CODE":"Code d'enregistrement invalide",
+  "INVALID_RESETCODE":"Code invalide",
+
+  "AUTH_NAME_TITLE": "Nous avons besoin de votre nom",
+  "AUTH_NAME_ENTRY": "Alex terieur",
+  "AUTH_NAME_VALID": "3+ caractéres",
+
+  "AUTH_PROFILEPICTURE_TITLE": "Photo de profil",
+  "AUTH_PROFILEPICTURE_SUBTITLE": "Selectionez un des icones disponible en tant que photo de profil",
+  "AUTH_PROFILEPICTURE_CUSTOM": "Ajouter votre photo",
+
+  "AUTH_PASSWORD_TITLE": "Terminons par votre mot de passe",
+  "AUTH_PASSWORD_WARNING": "Mot de passe invalide",
+  "AUTH_PASSWORD_ENTRY": "Votre mot de passe",
+  "AUTH_PASSWORD_POLICY1": "8+ caractères",
+  "AUTH_PASSWORD_POLICY2": "Au moins une majuscule",
+  "AUTH_PASSWORD_POLICY3": "Au moins un chiffre",
+  "REGISTRATION_ERROR":"Une erreur s'est produite lors de votre inscription, veuillez réssayer depusi votre address email",
+
+  "AUTH_SIGNIN_TITLE": "Connexion à votre compte",
+  "AUTH_SIGNIN_EMAIL": "test@gmail.com",
+  "AUTH_SIGNIN_PASSWORD": "mot de passe",
+  "AUTH_SIGNIN_BUTTON": "Login",
+  "AUTH_SIGNIN_FORGOTPASSWORD": "Mot de passe oublié?",
+  "AUTH_SIGNIN_RESETPASSWORD": "Réinitialiser",
+  "INVALID_CREDENTIALS":"Combinaison mot de passe/identifiant invalide",
+
+  "AUTH_RESETPASSWORD_TITLE": "Envoyez un code de reinitialisation",
+  "AUTH_RESETPASSWORD_WARNING": "S'il vous plait entrez une addresse email valide",
+  "AUTH_RESETPASSWORD_EMAIL": "jean.pauldeaux@gmail.com",
+  "AUTH_RESETPASSWORD_VALID": "3+ caractères",
+
+  "AUTH_NEWPASSWORD_TITLE": "Maintenant entrez votre nouveau mot de passe",
+  "AUTH_NEWPASSWORD_WARNING": "Mot de passe invalide",
+  "AUTH_NEWPASSWORD_NOMATCH":"Les mots de passe ne correspondent pas",
+  "AUTH_NEWPASSWORD_ENTRY": "Votre mot de passe",
+  "AUTH_NEWPASSWORD_ENTRY2": "Retapez votre mot de passe",
+  "AUTH_NEWPASSWORD_POLICY1": "8+ charactères",
+  "AUTH_NEWPASSWORD_POLICY2": "Au moins une majuscule",
+  "AUTH_NEWPASSWORD_POLICY3": "Au moins un chiffre",
+  "NEW_PASSWORD_ERROR":"Une erreur s'est produite, essayez de vous connecter avec votre nouveau mot de passe",
+
+  "AUTH_NEWPASSWORD_SUCCESS":"Mot de passe mis à jour",
+  "AUTH_NEWPASSWORD_SUCCESS_LOGIN":"Retour au menu principal",
+
+
+
+
+
+  "ACCOUNT_HELP_TITLE": "Que voulez vous faire?",
+  "ACCOUNT_HELP_UPDATENAME": "Changer votre nom",
+  "ACCOUNT_HELP_UPATEPASSWORD": "Change votre mot de passe",
+  "ACCOUNT_HELP_UPDATEPROFILEPIC": "Changer votre avatar",
+
+  "ACCOUNT_NAME_TITLE": "Quel nom voulez vous?",
+  "ACCOUNT_NAME_WARNING": "Nom invalide",
+  "ACCOUNT_NAME_ENTRY": "Jean lassale",
+  "ACCOUNT_NAME_VALID": "3+ caractères",
+  "UPDATE_PROFILE_ERROR":"Une erreur s'est produite pendant la mise à jour de votre profil, veuillez réésaayer",
+
+  "ACCOUNT_PROFILEPICTURE_TITLE": "Avatar de profil",
+  "ACCOUNT_PROFILEPICTURE_SUBTITLE": "Séléctionez un des avatar disponibles",
+  "ACCOUNT_PROFILEPICTURE_CUSTOM": "Ajouter une photo",
+  "UPDATE_PROFILEPIC_ERROR":"Une erreur s'est produite, veuillez réésaayer",
+
+  "ACCOUNT_UPDATE_SUCCESS": "Votre compte à correctement été mis à jour",
+
+
+
+
+  "COMMUNITY_HELP_TITLE": "Que voulez vous faire?",
+  "COMMUNITY_HELP_SENDINVITATION": "Envoyer une invitation",
+  "COMMUNITY_HELP_DELETE": "Supprimer le groupe",
+  "COMMUNITY_HELP_LEAVE": "Quitter le groupe",
+
+  "COMMUNITY_JOIN_TITLE": "Entrez le code d'invitation reçu par email",
+  "COMMUNITY_JOIN_VERIFY": "Verifier",
+  "COMMUNITY_JOIN_SUCCESS": "Vous avez correctement rejoint le groupe",
+  "INVALID_INVITATION_CODE":"Votre code d'invitation est invalide",
+
+  "COMMUNITY_INVITE_TITLE": "Entrer le mail sur lequel sera envoyé l'invitation",
+  "COMMUNITY_INVITE_WARNING": "Veuillez entrer une addresse email valide",
+  "COMMUNITY_INVITE_ENTRY": "jean.pierre@gmail.com",
+  "COMMUNITY_INVITE_VALID": "Email valide",
+  "COMMUNITY_INVITE_SUCCESS": "Invitation envoyée avec succès",
+  "SEND_COMMUNITY_INVIT_ERROR":"Une erreur s'est produite lors de l'envoi de l'email, veuillez réésayer",
+
+  "COMMUNITY_DELETE_TITLE": "Etes vous sur?",
+  "COMMUNITY_DELETE_WARNING": "Cette action est irrévocable",
+  "COMMUNITY_DELETE_CANCEL": "Annuler",
+  "COMMUNITY_DELETE_CONFIRM": "Supprimer",
+  "COMMUNITY_DELETE_SUCCESS": "Groupe supprimé avec succès",
+  "DELETE_COMMUNITY_ERROR":"Des capteurs sont toujours liés au noeud maitre et/ou le groupe n'est pas encore vide",
+
+  "COMMUNITY_LEAVE_TITLE": "Etes vous sur?",
+  "COMMUNITY_LEAVE_WARNING": "Cette action est irrévocable",
+  "COMMUNITY_LEAVE_CANCEL": "Annuler",
+  "COMMUNITY_LEAVE_CONFIRM": "Quitter",
+  "COMMUNITY_LEAVE_SUCCESS": "Groupe quitté avec succès",
+  "LEAVE_COMMUNITY_ERROR":"Une erreur s'est produite, veuillez réessayer",
+
+  "COMMUNITY_EXCLUDE_TITLE": "Etes vous sur?",
+  "COMMUNITY_EXCLUDE_WARNING": "Cette action ne pourra pas être annulée",
+  "COMMUNITY_EXCLUDE_CANCEL": "Annuler",
+  "COMMUNITY_EXCLUDE_CONFIRM": "Exclure",
+  "COMMUNITY_EXCLUDE_SUCCESS": "Utilisateur exclu avec succès",
+  "EXCLUDE_USER_ERROR":"Une erreur s'est produite",
+
+
+  "DRAWER_HOME": "Home",
+  "DRAWER_SETTINGS": "Paramètres",
+  "DRAWER_COMMUNITY": "Groupe",
+  "DRAWER_ACCOUNT": "Compte",
+  "DRAWER_LOGOUT": "Logout",
+
+
+  "DEVICES_TITLE": "Accès appareils",
+  "DEVICES_BATTERY1": "appareils",
+  "DEVICES_BATTERY2": "batterie faible",
+  "DEVICES_AVAILABLE1": "appareils",
+  "DEVICES_AVAILABLE2": "disponibles",
+  "DEVICES_OK": "",
+  "DEVICES_WARNING": "Certains appareils sont en batterie faible",
+
+  "DEVICESPENDING_TITLE": "Appareils en attentes d'appairage",
+  "DEVICESPENDING_WATING": "en attente",
+  "DEVICESPENDING_WARNING": "Ces appareils sont en attente d'appairage",
+  "DEVICESPENDING_OK": "Aucune action requise",
+
+
+  "SENSORNODES_TITLE": "Accès capteurs",
+  "SENSORNODES_FILLING1": "conteneurs",
+  "SENSORNODES_FILLING2": "remplis",
+  "SENSORNODES_AVAILABLE1": "conteneurs",
+  "SENSORNODES_AVAILABLE2": "disponibles",
+  "SENSORNODES_OK": "",
+  "SENSORNODES_WARNING": "Certains capteurs sont presques vides",
+
+
+
+  "SENSORNODESTATE_TITLE": "Capteur ",
+  "SENSORNODESTATE_FILLINGOK": "",
+  "SENSORNODESTATE_FILLINGWARNING": "",
+  "SENSORNODESTATE_FILLINGREMAINGING": "Restant",
+  "SENSORNODESTATE_SIGNAL1": "Force du signal",
+  "SENSORNODESTATE_UPDATED1": "Mis a jour",
+  "SENSORNODESTATE_UPDATED2": "",
+  "SENSORNODESTATE_CONTAIN": "Contient ",
+  "SENSORNODESTATE_BATTERYOK": "",
+  "SENSORNODESTATE_BATTERYWARNING": "Batterie faible",
+  "SENSORNODESTATE_WARNING": "Some containers are empty",
+
+
+
+  "SENSORNODE_HELP_TITLE": "Que voulez vous faire?",
+  "SENSORNODE_HELP_FIRSTAPPAIRING": "Premier appairage",
+  "SENSORNODE_HELP_DELETERDEVICE": "Supprimer le capteur",
+  "SENSORNODE_HELP_UPDATENAME": "Changer le nom du capteur",
+  "SENSORNODE_HELP_CONTENT": "Changer le liquide",
+  "SENSORNODE_HELP_DELETE": "Supprimer le capteur",
+
+  "SENSORNODE_NAME_TITLE": "Entrer le nouveau nom du capteur",
+  "SENSORNODE_NAME_ENTRY": "Plelan1",
+  "SENSORNODE_NAME_VALID": "3+ caractères",
+
+  "SENSORNODE_CONTENT_TITLE": "Quelle est le nom du liquide",
+  "SENSORNODE_CONTENT_ENTRY": "Chlore",
+  "SENSORNODE_CONTENT_VALID": "3+ caractères",
+
+  "SENSORNODE_DELETE_TITLE": "Etes vous sur?",
+  "SENSORNODE_DELETE_WARNING": "Cette action ne peut pas être annulée",
+  "SENSORNODE_DELETE_CANCEL": "Annuler",
+  "SENSORNODE_DELETE_CONFIRM": "Supprimer",
+  "SENSORNODE_DELETE_SUCCESS": "Capteur supprimé avec succès",
+  "DELETE_SENSORNODE_ERROR":"Une erreur s'est produite lors de la suppression du capteur / et ou vous n'étes pas autorisé",
+
+  "SENSORNODE_UPDATE_SUCCESS": "Votre capteur mis à été mis à jour",
+  "ERROR_UPDATE_SENSORNODE_PAYLOAD": "Le nom du capteur doit être assez long",
+
+
+
+  "HOME_WELCOME": "Bonjour, ",
+  "HOME_JOINNODE": "Joindre un groupe",
+  "HOME_CREATENODE": "Créer votre premier noeud maitre",
+
+  "HOME_MASTERNODECREATED": "Noeud maitre crée avec succès",
+  "HOME_MASTERNODEPENDING": "Attendez quelques secondes afin que le noeud envoie les premières données",
+  "HOME_STARTAPPAIRING": "Commencer l'appairage",
+  "HOME_RESTARTAPPAIRING": "Recommencer l'appairage",
+
+  "HOME_ACCESSSENSORNODES_TITLE": "Accès capteurs",
+  "HOME_ACCESSSENSORNODES_SUBTITLE": "remplis",
+  "HOME_ACCESSSENSORNODES_WARNING": "Attention",
+
+  "HOME_ACCESSDEVICES_TITLE": "Accès appareils",
+  "HOME_ACCESSDEVICES_SUBTITLE": " appareils",
+  "HOME_ACCESSDEVICES_WARNING": "Certains appareils sont en batterie faible",
+
+  "HOME_ACCESSPENDINGDEVICES_TITLE": "Appareils en attente",
+  "HOME_ACCESSPENDINGDEVICES_SUBTITLE": "en attente",
+  "HOME_ACCESSPENDINGDEVICES_WARNING": "Vous avez des appareils en attente",
+  "HOME_ACCESSPENDINGDEVICES_OK": "",
+
+  "HOME_WARNING":"Attention",
+
+
+
+
+  "MASTERNODE_NAME_TITLE": "Entrer le nom du noeud maitre",
+  "MASTERNODE_NAME_ENTRY": "Site Paris nord",
+  "MASTERNODE_NAME_VALID": "3+ caractères",
+  "MASTERNODE_NAME_ERROR": "S'il vous plait entrez un nom valide",
+  "MASTERNODE_CREATE_SUCCESS": "Noeud maitre crée avec succès",
+
+  "MASTERNODE_APPAIRING_TITLE": "Appairage",
+  "MASTERNODE_APPAIRING_SUBTITLE": "Appuyez sur le bouton du noeud maitre puis cliquez sur ok",
+  "GENERATE_MASTERKEY_ERROR": "Un erreur s'est produite lors de la création de la clé d'accès, veuillez rééssayez",
+
+  "MASTERNODE_WIFIPARAMS_TITLE": "Appairage",
+  "MASTERNODE_WIFIPARAMS_SUBTITLE": "Dernière étape, entrez votre identifiant et mot de passe de wifi",
+  "MASTERNODE_WIFIPARAMS_SSID": "BoxXV2",
+  "MASTERNODE_WIFIPARAMS_PASSWORD": "Mabox23!f",
+  "MASTERNODE_APPAIRING_ERROR": "Il y'a une une erreur lors de la communication avec le noeud maitre, rééssayez de vous connecter au hotspot",
+  "MASTERNODE_APPAIRING_SUCCESS": "Appairage réalisé",
+
+
+  "SETTINGS_PARAMETERS": "Paramétres du compte",
+  "SETTINGS_JOIN": "Rejoindre un groupe",
+  "SETTINGS_RESTARTAPPAIRING": "Recommencer l'appairage",
+
+  "INTERNAL_ERROR":"Une erreur de nos services s'est produite, veuillez réésayer plus tard",
+  "NOT_DEFINE": "No trad for this",
+  "GO_BACK_MENU": "Retour au menu principal",
+  "CONNECTION_ERROR": "Vous n'êtes connectés à aucun réseau",
+
+
+
+  "LOW_BATTERY": "Un appareil est en batterie faible",
+  "WEAK_SIGNAL": "Un appareil recoit envoie un signal faible",
+  "LOW_LEVEL": "Un appareil enregistre une faible quantité",
+  "MASTERNODE_CONNECTED": "Votre noeud principal est désormais connecté",
+  "NEW_PENDING_SENSOR": "Un nouvel appareil est en attente"
+
+
+}

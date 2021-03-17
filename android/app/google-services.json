@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215527416681",
+    "firebase_url": "https://sensorz-factory.firebaseio.com",
+    "project_id": "sensorz-factory",
+    "storage_bucket": "sensorz-factory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215527416681:android:c2801354a2842b3af853f8",
+        "android_client_info": {
+          "package_name": "com.zenfactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215527416681-podg79nsq4ml6l656p5hut1qigb347rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZpL7VVc2xqClbuWHxZYxURXDugfNgU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215527416681-podg79nsq4ml6l656p5hut1qigb347rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

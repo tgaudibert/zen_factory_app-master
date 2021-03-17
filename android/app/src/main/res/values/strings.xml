@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZenFactory</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">09CLQ-MAIPbT8nLuUqYribgNL5l_wHs4jJ85_</string>
+</resources>

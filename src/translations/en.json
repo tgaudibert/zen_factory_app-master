@@ -1,0 +1,259 @@
+{
+  "AUTH_LANDING_TITLE": "Welcome to sensorz",
+  "AUTH_LANDING_SUBTITLE": "Monitor your factory",
+  "AUTH_LANDING_GETSTARTED": "Get Started",
+  "AUTH_LANDING_ALREADYSIGNUP": "Already have an account?",
+  "AUTH_LANDING_SIGNIN": "Sign In",
+
+  "AUTH_EMAIL_TITLE": "What is your email adress?",
+  "AUTH_EMAIL_WARNING": "Please enter a valid email",
+  "AUTH_EMAIL_ENTRY": "Enter your emaila adress",
+  "AUTH_EMAIL_VALID": "Valid Email",
+  "USERNAME_EMAIL_ERROR": "There is a problem with your email, try another one",
+  "USER_ALREADY_EXISTS" : "User already exists",
+
+  "AUTH_CODE_TITLE": "Enter the verification code we sent to your email",
+  "AUTH_CODE_VERIFY": "Verify",
+  "INVALID_REGISTRATION_CODE":"Invalid registration code",
+  "INVALID_RESETCODE":"Invalid code",
+
+  "AUTH_NAME_TITLE": "We need your name",
+  "AUTH_NAME_ENTRY": "Enter your name",
+  "AUTH_NAME_VALID": "3+ characters",
+
+  "AUTH_PROFILEPICTURE_TITLE": "Profile picture",
+  "AUTH_PROFILEPICTURE_SUBTITLE": "You can select photo from one of these emojis or add your own profile picture",
+  "AUTH_PROFILEPICTURE_CUSTOM": "Add custom Photo",
+
+  "AUTH_PASSWORD_TITLE": "Now let's setup your password",
+  "AUTH_PASSWORD_WARNING": "Invalid Password",
+  "AUTH_PASSWORD_ENTRY": "Enter your name",
+  "AUTH_PASSWORD_POLICY1": "8+ charcters",
+  "AUTH_PASSWORD_POLICY2": "At least one uppercase",
+  "AUTH_PASSWORD_POLICY3": "At least one Number",
+  "REGISTRATION_ERROR":"An error happened while registering, please restart registering from your email",
+
+  "AUTH_SIGNIN_TITLE": "Login to your account and start monitoring",
+  "AUTH_SIGNIN_EMAIL": "Email Address",
+  "AUTH_SIGNIN_PASSWORD": "Password",
+  "AUTH_SIGNIN_BUTTON": "Login",
+  "AUTH_SIGNIN_FORGOTPASSWORD": "Forget your password?",
+  "AUTH_SIGNIN_RESETPASSWORD": "Reset password",
+  "INVALID_CREDENTIALS":"Invalid credentials",
+
+  "AUTH_RESETPASSWORD_TITLE": "Send a reset code to my email",
+  "AUTH_RESETPASSWORD_WARNING": "Please enter a valid email",
+  "AUTH_RESETPASSWORD_EMAIL": "Email Address",
+  "AUTH_RESETPASSWORD_VALID": "3+ characters",
+
+  "AUTH_NEWPASSWORD_TITLE": "Now let's setup your new password",
+  "AUTH_NEWPASSWORD_WARNING": "Invalid Password",
+  "AUTH_NEWPASSWORD_NOMATCH":"Password doesn't match",
+  "AUTH_NEWPASSWORD_ENTRY": "Enter your password",
+  "AUTH_NEWPASSWORD_ENTRY2": "Retype your password",
+  "AUTH_NEWPASSWORD_POLICY1": "8+ charcters",
+  "AUTH_NEWPASSWORD_POLICY2": "At least one uppercase",
+  "AUTH_NEWPASSWORD_POLICY3": "At least one Number",
+  "NEW_PASSWORD_ERROR":"A problem happened, try to connect with your new password",
+  "AUTH_NEWPASSWORD_SUCCESS":"Password successfully reset",
+  "AUTH_NEWPASSWORD_SUCCESS_LOGIN":"Go to login page",
+
+
+
+
+  "ACCOUNT_HELP_TITLE": "Let us know how we can help you",
+  "ACCOUNT_HELP_UPDATENAME": "Change my name",
+  "ACCOUNT_HELP_UPATEPASSWORD": "Change my password",
+  "ACCOUNT_HELP_UPDATEPROFILEPIC": "Update my profile picture",
+
+  "ACCOUNT_NAME_TITLE": "Which name would you want to take?",
+  "ACCOUNT_NAME_WARNING": "Invalid name",
+  "ACCOUNT_NAME_ENTRY": "Enter your name",
+  "ACCOUNT_NAME_VALID": "3+ characters",
+  "UPDATE_PROFILE_ERROR":"An error happened while updating your profile",
+
+  "ACCOUNT_PROFILEPICTURE_TITLE": "Profile picture",
+  "ACCOUNT_PROFILEPICTURE_SUBTITLE": "You can select photo from one of these emojis or add your own profile picture",
+  "ACCOUNT_PROFILEPICTURE_CUSTOM": "Add custom Photo",
+  "UPDATE_PROFILEPIC_ERROR":"An error happened while updating your profile picture",
+
+  "ACCOUNT_UPDATE_SUCCESS": "Account succesfully updated",
+
+
+
+
+  "COMMUNITY_HELP_TITLE": "What do you want to dO?",
+  "COMMUNITY_HELP_SENDINVITATION": "Send Invitation",
+  "COMMUNITY_HELP_DELETE": "Delete Community",
+  "COMMUNITY_HELP_LEAVE": "Leave Community",
+
+  "COMMUNITY_JOIN_TITLE": "Enter the verification you received on your email",
+  "COMMUNITY_JOIN_VERIFY": "Verify",
+  "COMMUNITY_JOIN_SUCCESS": "Community successfully joined",
+  "INVALID_INVITATION_CODE":"The invitation code is invalid",
+
+  "COMMUNITY_INVITE_TITLE": "Enter the email to send the invitation code",
+  "COMMUNITY_INVITE_WARNING": "Please enter a valid email",
+  "COMMUNITY_INVITE_ENTRY": "Enter email adress",
+  "COMMUNITY_INVITE_VALID": "Valid Email",
+  "COMMUNITY_INVITE_SUCCESS": "Invitation succesfully sent",
+  "SEND_COMMUNITY_INVIT_ERROR":"An error happened with email",
+
+  "COMMUNITY_DELETE_TITLE": "Are you sure?",
+  "COMMUNITY_DELETE_WARNING": "This action cannot be recovered",
+  "COMMUNITY_DELETE_CANCEL": "Cancel",
+  "COMMUNITY_DELETE_CONFIRM": "Delete",
+  "COMMUNITY_DELETE_SUCCESS": "Community succesfully deleted",
+  "DELETE_COMMUNITY_ERROR":"There are sensors already linked to the masternode and/or users already into the masternode group",
+
+  "COMMUNITY_LEAVE_TITLE": "Are you sure?",
+  "COMMUNITY_LEAVE_WARNING": "This action cannot be recovered",
+  "COMMUNITY_LEAVE_CANCEL": "Cancel",
+  "COMMUNITY_LEAVE_CONFIRM": "Leave",
+  "COMMUNITY_LEAVE_SUCCESS": "Community succesfully left",
+  "LEAVE_COMMUNITY_ERROR":"An error happened while leaving community",
+
+  "COMMUNITY_EXCLUDE_TITLE": "Are you sure?",
+  "COMMUNITY_EXCLUDE_WARNING": "This action cannot be recovered",
+  "COMMUNITY_EXCLUDE_CANCEL": "Cancel",
+  "COMMUNITY_EXCLUDE_CONFIRM": "Exclude",
+  "COMMUNITY_EXCLUDE_SUCCESS": "User successfully excluded",
+  "EXCLUDE_USER_ERROR":"An error happened while excluding user",
+
+
+  "DRAWER_HOME": "Home",
+  "DRAWER_SETTINGS": "Settings",
+  "DRAWER_COMMUNITY": "Masternode",
+  "DRAWER_ACCOUNT": "Account",
+  "DRAWER_LOGOUT": "Logout",
+
+
+  "DEVICES_TITLE": "Access devices",
+  "DEVICES_BATTERY1": "devices",
+  "DEVICES_BATTERY2": "low battery",
+  "DEVICES_AVAILABLE1": "devices",
+  "DEVICES_AVAILABLE2": "available",
+  "DEVICES_OK": "Everything is ok",
+  "DEVICES_WARNING": "Some devices have low battery",
+
+  "DEVICESPENDING_TITLE": "devices requires appairing",
+  "DEVICESPENDING_WATING": "waiting",
+  "DEVICESPENDING_WARNING": "These devices requires appairing",
+  "DEVICESPENDING_OK": "no action needed",
+
+
+  "SENSORNODES_TITLE": "Access containers",
+  "SENSORNODES_FILLING1": "full",
+  "SENSORNODES_FILLING2": "containers",
+  "SENSORNODES_AVAILABLE1": "containers",
+  "SENSORNODES_AVAILABLE2": "available",
+  "SENSORNODES_OK": "Everything is ok",
+  "SENSORNODES_WARNING": "Some containers are empty",
+
+
+
+  "SENSORNODESTATE_TITLE": "Sensornode ",
+  "SENSORNODESTATE_FILLINGOK": "Enought liquid remaining",
+  "SENSORNODESTATE_FILLINGWARNING": "No enought liquid remaining ",
+  "SENSORNODESTATE_FILLINGREMAINGING": "Remaining",
+  "SENSORNODESTATE_SIGNAL1": "Signal strenght",
+  "SENSORNODESTATE_UPDATED1": "Updated",
+  "SENSORNODESTATE_UPDATED2": "ago",
+  "SENSORNODESTATE_CONTAIN": "Contain ",
+  "SENSORNODESTATE_BATTERYOK": "Enought battery remaining",
+  "SENSORNODESTATE_BATTERYWARNING": "Low Battery",
+  "SENSORNODESTATE_WARNING": "Some containers are empty",
+
+
+
+  "SENSORNODE_HELP_TITLE": "Let us know how we can help you",
+  "SENSORNODE_HELP_FIRSTAPPAIRING": "First appairing",
+  "SENSORNODE_HELP_DELETERDEVICE": "Delete requesting device",
+  "SENSORNODE_HELP_UPDATENAME": "Change sensornode name",
+  "SENSORNODE_HELP_CONTENT": "Change sensornode content",
+  "SENSORNODE_HELP_DELETE": "Delete sensor",
+
+  "SENSORNODE_NAME_TITLE": "let's set new sensornode's name",
+  "SENSORNODE_NAME_ENTRY": "Enter sensornode name",
+  "SENSORNODE_NAME_VALID": "3+ characters",
+
+  "SENSORNODE_CONTENT_TITLE": "let's set new sensornode's content",
+  "SENSORNODE_CONTENT_ENTRY": "Enter sensornode content",
+  "SENSORNODE_CONTENT_VALID": "3+ characters",
+
+  "SENSORNODE_DELETE_TITLE": "Are you sure?",
+  "SENSORNODE_DELETE_WARNING": "This action cannot be recovered",
+  "SENSORNODE_DELETE_CANCEL": "Cancel",
+  "SENSORNODE_DELETE_CONFIRM": "Delete",
+  "SENSORNODE_DELETE_SUCCESS": "Sensor successfully deleted",
+  "DELETE_SENSORNODE_ERROR":"You are not allowed to delete sensors",
+
+  "SENSORNODE_UPDATE_SUCCESS": "Sensornode successfully updated",
+  "ERROR_UPDATE_SENSORNODE_PAYLOAD": "The sensor's name must have more characters",
+
+
+
+  "HOME_WELCOME": "Welcome, ",
+  "HOME_JOINNODE": "Join existing node",
+  "HOME_CREATENODE": "Create your first node",
+
+  "HOME_MASTERNODECREATED": "Masternode succesfully created",
+  "HOME_MASTERNODEPENDING": "Wait few seconds until the node send the first informations",
+  "HOME_STARTAPPAIRING": "Start appairing process",
+  "HOME_RESTARTAPPAIRING": "Restart appairing process",
+
+  "HOME_ACCESSSENSORNODES_TITLE": "Access Containers",
+  "HOME_ACCESSSENSORNODES_SUBTITLE": " full containers",
+  "HOME_ACCESSSENSORNODES_WARNING": "Warning",
+
+  "HOME_ACCESSDEVICES_TITLE": "Access Devices",
+  "HOME_ACCESSDEVICES_SUBTITLE": " sensors",
+  "HOME_ACCESSDEVICES_WARNING": "Some devices got low battery",
+
+  "HOME_ACCESSPENDINGDEVICES_TITLE": "Pending Devices",
+  "HOME_ACCESSPENDINGDEVICES_SUBTITLE": " sensors waiting",
+  "HOME_ACCESSPENDINGDEVICES_WARNING": "You got some devices pending",
+  "HOME_ACCESSPENDINGDEVICES_OK": "No pending devices",
+
+  "HOME_WARNING":"Warning",
+
+
+
+
+  "MASTERNODE_NAME_TITLE": "Let's set masternode's name",
+  "MASTERNODE_NAME_ENTRY": "Enter masternode name",
+  "MASTERNODE_NAME_VALID": "3+ characters",
+  "MASTERNODE_NAME_ERROR": "Please enter a valid name",
+  "MASTERNODE_CREATE_SUCCESS": "Masternode succesfully created",
+
+  "MASTERNODE_APPAIRING_TITLE": "Apparing",
+  "MASTERNODE_APPAIRING_SUBTITLE": "Press the main button of the masternode and connect you to the hotspot created, then continue",
+  "GENERATE_MASTERKEY_ERROR": "An error happened while generating the appairing key, retry later",
+
+  "MASTERNODE_WIFIPARAMS_TITLE": "Appairing",
+  "MASTERNODE_WIFIPARAMS_SUBTITLE": "This is the last step, provide wifi access to the masternode and it's all done",
+  "MASTERNODE_WIFIPARAMS_SSID": "Wifi identifier",
+  "MASTERNODE_WIFIPARAMS_PASSWORD": "Wifi password",
+  "MASTERNODE_APPAIRING_ERROR": "Could not send information to the device - check connection",
+  "MASTERNODE_APPAIRING_SUCCESS": "Masternode successfully appaired",
+
+
+  "SETTINGS_PARAMETERS": "Account parameters",
+  "SETTINGS_JOIN": "Join new community",
+  "SETTINGS_RESTARTAPPAIRING": "Restart main appairing",
+
+  "INTERNAL_ERROR":"An error of our services happened, try again later",
+  "NOT_DEFINE": "No trad for this",
+  "GO_BACK_MENU": "Return to main menu",
+  "CONNECTION_ERROR": "It seems that you're not connected",
+
+
+
+  "LOW_BATTERY": "A device got low battery",
+  "WEAK_SIGNAL": "A device seems to receive low signal",
+  "LOW_LEVEL": "A container will soon needs to be filled",
+  "MASTERNODE_CONNECTED": "A new masternode is connected",
+  "NEW_PENDING_SENSOR": "A new device is waiting for appairing"
+
+
+}
